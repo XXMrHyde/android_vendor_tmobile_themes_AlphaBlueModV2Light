@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="alphablue.mms.WidgetTitle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="alphablue.TextAppearance.WindowTitle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/alphablue_white</item>
+    </style>
+
+    <style name="AlphaBlueMod" parent="@android:style/Theme" />
+</resources>

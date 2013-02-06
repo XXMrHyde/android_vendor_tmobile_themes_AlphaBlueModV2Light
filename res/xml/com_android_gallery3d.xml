@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/btn_camera_shutter_holo">@drawable/com_android_gallery3d_btn_camera_shutter_holo</item>
+    <item name="drawable/btn_camera_shutter_pressed_holo">@drawable/com_android_gallery3d_btn_camera_shutter_pressed_holo</item>
+    <item name="drawable/btn_pan_shutter_holo">@drawable/com_android_gallery3d_btn_pan_shutter_holo</item>
+    <item name="drawable/btn_pan_shutter_pressed_holo">@drawable/com_android_gallery3d_btn_pan_shutter_pressed_holo</item>
+    <item name="drawable/btn_pan_shutter_recording_holo">@drawable/com_android_gallery3d_btn_pan_shutter_recording_holo</item>
+    <item name="drawable/btn_pan_shutter_recording_pressed_holo">@drawable/com_android_gallery3d_btn_pan_shutter_recording_pressed_holo</item>
+	<item name="drawable/btn_retake_shutter_holo">@drawable/btn_retake_shutter_holo</item>
+    <item name="drawable/btn_retake_shutter_pressed_holo">@drawable/btn_retake_shutter_pressed_holo</item>
+    <item name="drawable/btn_video_shutter_holo">@drawable/com_android_gallery3d_btn_video_shutter_holo</item>
+    <item name="drawable/btn_video_shutter_pressed_holo">@drawable/com_android_gallery3d_btn_video_shutter_pressed_holo</item>
+    <item name="drawable/btn_video_shutter_recording_holo">@drawable/com_android_gallery3d_btn_video_shutter_recording_holo</item>
+    <item name="drawable/btn_video_shutter_recording_pressed_holo">@drawable/com_android_gallery3d_btn_video_shutter_recording_pressed_holo</item>
+    <item name="drawable/bg_camera_pattern">@drawable/com_android_gallery3d_bg_camera_pattern</item>
+    <item name="drawable/ic_zoom_slider">@drawable/frameworks_res_scrubber_control_normal_holo</item>
+</resource-redirections>

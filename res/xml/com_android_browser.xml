@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bg_urlbar">@drawable/com_android_browser_bg_urlbar</item>
+    <item name="drawable/browser_background_holo">@drawable/com_android_browser_browser_background_holo</item>
+    <item name="drawable/nav_tab_bg">@drawable/com_android_browser_nav_tab_bg</item>
+</resource-redirections>
