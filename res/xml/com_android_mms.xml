@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <!-- drawables - png -->
+	<item name="drawable/stat_notify_mms">@drawable/com_android_mms_stat_notify_mms</item>
+	<item name="drawable/stat_notify_sms">@drawable/com_android_mms_stat_notify_sms</item>
+	<item name="drawable/stat_notify_sms_failed">@drawable/com_android_mms_stat_notify_sms_failed</item>
+	<item name="drawable/stat_sys_no_sim">@drawable/com_android_mms_stat_sys_no_sim</item>
+</resource-redirections>

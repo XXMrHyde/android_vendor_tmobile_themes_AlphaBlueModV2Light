@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <!-- drawables - png -->
+	<item name="drawable/stat_sys_phone_call">@drawable/com_android_phone_stat_sys_phone_call</item>
+	<item name="drawable/stat_sys_phone_call_end">@drawable/com_android_phone_stat_sys_phone_call_end</item>
+	<item name="drawable/stat_sys_phone_call_forward">@drawable/com_android_phone_stat_sys_phone_call_forward</item>
+	<item name="drawable/stat_sys_phone_call_on_hold">@drawable/com_android_phone_stat_sys_phone_call_on_hold</item>
+	<item name="drawable/stat_sys_vp_phone_call">@drawable/com_android_phone_stat_sys_vp_phone_call</item>
+	<item name="drawable/stat_sys_vp_phone_call_on_hold">@drawable/com_android_phone_stat_sys_vp_phone_call_on_hold</item>
+</resource-redirections>

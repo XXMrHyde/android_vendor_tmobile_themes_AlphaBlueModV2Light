@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <!-- drawables - png -->
+	<item name="drawable/stat_notify_calendar">@drawable/com_android_calendar_stat_notify_calendar</item>
+	<item name="drawable/stat_notify_calendar_multiple">@drawable/com_android_calendar_stat_notify_calendar_multiple</item>
+</resource-redirections>

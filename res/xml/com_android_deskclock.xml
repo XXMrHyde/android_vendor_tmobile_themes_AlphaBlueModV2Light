@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/appwidget_clock_dial">@drawable/com_android_deskclock_appwidget_clock_dial</item>
-    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
-    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
     <item name="drawable/appwidget_aokp_white_clock_dial">@drawable/com_android_deskclock_appwidget_aokp_white_clock_dial</item>
     <item name="drawable/appwidget_aokp_clock_minute">@drawable/com_android_deskclock_appwidget_aokp_clock_minute</item>
     <item name="drawable/appwidget_aokp_clock_hour">@drawable/com_android_deskclock_appwidget_aokp_clock_hour</item>
-	<item name="color/alarm_selected_color">@color/alphablue_blue</item>
-    <item name="color/red">@color/alphablue_blue</item>
-    <item name="color/clock_red">@color/alphablue_blue</item>
-    <item name="color/clock_blue">@color/alphablue_blue</item>
+    <item name="drawable/appwidget_clock_dial">@drawable/com_android_deskclock_appwidget_clock_dial</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
     <item name="drawable/appwidget_clock_second">@drawable/com_android_deskclock_appwidget_clock_second</item>
-    <item name="drawable/clock_analog_second">@drawable/com_android_deskclock_clock_analog_second</item>
-    <item name="drawable/ic_reset_pressed">@drawable/com_android_deskclock_clock_ic_reset_pressed</item>
-    <item name="drawable/ic_plusone_pressed">@drawable/com_android_deskclock_clock_ic_plusone_pressed</item>
-    <item name="drawable/ic_lap_pressed">@drawable/com_android_deskclock_clock_ic_lap_pressed</item>
-    <item name="drawable/ic_label_pressed">@drawable/com_android_deskclock_clock_ic_label_pressed</item>
-    <item name="drawable/ic_diamond_red">@drawable/com_android_deskclock_clock_ic_diamond_red</item>
     <item name="drawable/btn_alarm_focused">@drawable/com_android_deskclock_clock_btn_alarm_focused</item>
     <item name="drawable/btn_alarm_pressed">@drawable/com_android_deskclock_clock_btn_alarm_pressed</item>
-    <item name="drawable/ic_share_pressed">@drawable/com_android_deskclock_clock_ic_share_pressed</item>
+    <item name="drawable/clock_analog_second">@drawable/com_android_deskclock_clock_analog_second</item>
     <item name="drawable/ic_delete_pressed">@drawable/com_android_deskclock_clock_ic_delete_pressed</item>
+    <item name="drawable/ic_diamond_red">@drawable/com_android_deskclock_clock_ic_diamond_red</item>
+    <item name="drawable/ic_label_pressed">@drawable/com_android_deskclock_clock_ic_label_pressed</item>
+    <item name="drawable/ic_lap_pressed">@drawable/com_android_deskclock_clock_ic_lap_pressed</item>
+    <item name="drawable/ic_plusone_pressed">@drawable/com_android_deskclock_clock_ic_plusone_pressed</item>
+    <item name="drawable/ic_reset_pressed">@drawable/com_android_deskclock_clock_ic_reset_pressed</item>
+    <item name="drawable/ic_share_pressed">@drawable/com_android_deskclock_clock_ic_share_pressed</item>
+	<item name="drawable/stat_notify_alarm">@drawable/com_android_deskclock_stat_notify_alarm</item>
+	<item name="drawable/stat_notify_stopwatch">@drawable/com_android_deskclock_stat_notify_stopwatch</item>
+	<item name="drawable/stat_notify_timer">@drawable/com_android_deskclock_stat_notify_timer</item>
+	<item name="color/alarm_selected_color">@color/alphablue_blue</item>
+    <item name="color/clock_blue">@color/alphablue_blue</item>
+    <item name="color/clock_red">@color/alphablue_blue</item>
+    <item name="color/red">@color/alphablue_blue</item>
 </resource-redirections>

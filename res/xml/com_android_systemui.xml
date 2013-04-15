@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/notification_row_legacy_bg">@drawable/com_android_systemui_notification_row_legacy_bg</item>
-    <item name="drawable/qs_tile_background">@drawable/com_android_systemui_qs_tile_background</item>
+	<item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
     <item name="drawable/btn_off">@drawable/com_android_systemui_btn_off</item>
 	<item name="drawable/btn_on">@drawable/com_android_systemui_btn_on</item>
+    <item name="drawable/notification_row_legacy_bg">@drawable/com_android_systemui_notification_row_legacy_bg</item>
+    <item name="drawable/qs_tile_background">@drawable/com_android_systemui_qs_tile_background</item>
 	<item name="drawable/ic_notify_clear_normal">@drawable/com_android_systemui_ic_notify_clear_normal</item>
 	<item name="drawable/ic_notify_clear_pressed">@drawable/com_android_systemui_ic_notify_clear_pressed</item>
 	<item name="drawable/ic_notify_quicksettings_normal">@drawable/com_android_systemui_ic_notify_quicksettings_normal</item>
@@ -103,6 +104,7 @@
 	<item name="drawable/stat_sync_off">@drawable/com_android_systemui_stat_sync_off</item>
 	<item name="drawable/stat_sync_on">@drawable/com_android_systemui_stat_sync_on</item>
 	<item name="drawable/stat_sys_alarm">@drawable/com_android_systemui_stat_sys_alarm</item>
+	<item name="drawable/stat_sys_data_bluetooth">@drawable/com_android_systemui_stat_sys_data_bluetooth</item>
 	<item name="drawable/stat_sys_data_connected_1x">@drawable/com_android_systemui_stat_sys_data_connected_1x</item>
 	<item name="drawable/stat_sys_data_connected_3g">@drawable/com_android_systemui_stat_sys_data_connected_3g</item>
 	<item name="drawable/stat_sys_data_connected_4g">@drawable/com_android_systemui_stat_sys_data_connected_4g</item>
@@ -111,8 +113,11 @@
 	<item name="drawable/stat_sys_data_connected_h">@drawable/com_android_systemui_stat_sys_data_connected_h</item>
 	<item name="drawable/stat_sys_data_connected_hp">@drawable/com_android_systemui_stat_sys_data_connected_hp</item>
 	<item name="drawable/stat_sys_gps_acquiring">@drawable/com_android_systemui_stat_sys_gps_acquiring</item>
+	<item name="drawable/stat_sys_no_sim">@drawable/com_android_systemui_stat_sys_no_sim</item>
 	<item name="drawable/stat_sys_ringer_silent">@drawable/com_android_systemui_stat_sys_ringer_silent</item>
 	<item name="drawable/stat_sys_ringer_vibrate">@drawable/com_android_systemui_stat_sys_ringer_vibrate</item>
+	<item name="drawable/stat_sys_roaming_cdma_0">@drawable/com_android_systemui_stat_sys_roaming_cdma_0</item>
+	<item name="drawable/stat_sys_roaming_cdma_flash_anim1">@drawable/com_android_systemui_stat_sys_roaming_cdma_flash_anim1</item>
 	<item name="drawable/stat_sys_signal_0">@drawable/com_android_systemui_stat_sys_signal_0</item>
 	<item name="drawable/stat_sys_signal_0_fully">@drawable/com_android_systemui_stat_sys_signal_0_fully</item>
 	<item name="drawable/stat_sys_signal_1">@drawable/com_android_systemui_stat_sys_signal_1</item>
@@ -129,6 +134,8 @@
 	<item name="drawable/stat_sys_signal_min">@drawable/com_android_systemui_stat_sys_signal_min</item>
 	<item name="drawable/stat_sys_signal_null">@drawable/com_android_systemui_stat_sys_signal_null</item>
 	<item name="drawable/stat_sys_signal_out">@drawable/com_android_systemui_stat_sys_signal_out</item>
+	<item name="drawable/stat_sys_sync">@drawable/com_android_systemui_stat_sys_sync</item>
+	<item name="drawable/stat_sys_sync_error">@drawable/com_android_systemui_stat_sys_sync_error</item>
 	<item name="drawable/stat_sys_wifi_in">@drawable/com_android_systemui_stat_sys_wifi_in</item>
 	<item name="drawable/stat_sys_wifi_inout">@drawable/com_android_systemui_stat_sys_wifi_inout</item>
 	<item name="drawable/stat_sys_wifi_out">@drawable/com_android_systemui_stat_sys_wifi_out</item>
