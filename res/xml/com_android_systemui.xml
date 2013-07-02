@@ -89,6 +89,7 @@
 	<item name="drawable/stat_media_pause">@drawable/com_android_systemui_stat_media_pause</item>
 	<item name="drawable/stat_media_play">@drawable/com_android_systemui_stat_media_play</item>
 	<item name="drawable/stat_media_previous">@drawable/com_android_systemui_stat_media_previous</item>
+	<item name="drawable/stat_notify_battery_low">@drawable/com_android_systemui_stat_notify_battery_low</item>
 	<item name="drawable/stat_notify_image">@drawable/com_android_systemui_stat_notify_image</item>
 	<item name="drawable/stat_notify_image_error">@drawable/com_android_systemui_stat_notify_image_error</item>
 	<item name="drawable/stat_notify_more">@drawable/com_android_systemui_stat_notify_more</item>
