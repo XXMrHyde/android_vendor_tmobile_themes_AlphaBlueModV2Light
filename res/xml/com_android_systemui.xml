@@ -96,6 +96,13 @@
     <item name="drawable/stat_sys_data_connected_g">@drawable/com_android_systemui_stat_sys_data_connected_g</item>
     <item name="drawable/stat_sys_data_connected_h">@drawable/com_android_systemui_stat_sys_data_connected_h</item>
     <item name="drawable/stat_sys_data_connected_hp">@drawable/com_android_systemui_stat_sys_data_connected_hp</item>
+    <item name="drawable/stat_sys_data_fully_connected_1x">@drawable/com_android_systemui_stat_sys_data_connected_1x</item>
+    <item name="drawable/stat_sys_data_fully_connected_3g">@drawable/com_android_systemui_stat_sys_data_connected_3g</item>
+    <item name="drawable/stat_sys_data_fully_connected_4g">@drawable/com_android_systemui_stat_sys_data_connected_4g</item>
+    <item name="drawable/stat_sys_data_fully_connected_e">@drawable/com_android_systemui_stat_sys_data_connected_e</item>
+    <item name="drawable/stat_sys_data_fully_connected_g">@drawable/com_android_systemui_stat_sys_data_connected_g</item>
+    <item name="drawable/stat_sys_data_fully_connected_h">@drawable/com_android_systemui_stat_sys_data_connected_h</item>
+    <item name="drawable/stat_sys_data_fully_connected_hp">@drawable/com_android_systemui_stat_sys_data_connected_hp</item>
     <item name="drawable/stat_sys_gps_acquiring">@drawable/com_android_systemui_stat_sys_gps_acquiring</item>
     <item name="drawable/stat_sys_no_sim">@drawable/com_android_systemui_stat_sys_no_sim</item>
     <item name="drawable/stat_sys_ringer_silent">@drawable/com_android_systemui_stat_sys_ringer_silent</item>
